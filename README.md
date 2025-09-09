@@ -1,6 +1,6 @@
 # Modelos de Simulación en SIMIO
 
-Este repositorio contiene una colección de proyectos de simulación desarrollados con el software **SIMIO**. Los proyectos están organizados en dos secciones principales: una introducción a los modelos de simulación a través de una serie de casos prácticos, y un proyecto final que aborda un caso de estudio más complejo.
+Este repositorio contiene una colección de proyectos de simulación desarrollados con el software **SIMIO**. Los proyectos están organizados en dos secciones principales: una introducción a los modelos de simulación a través de una serie de casos prácticos, y un proyecto final que aborda un caso de estudio más complejo (ver `Simulación Final - Documentación.pdf`).
 
 ---
 
